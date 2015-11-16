@@ -13,6 +13,9 @@
     "name": "Xiao Ma",
     "email": "x@medium.com"
   },
+  "bin": {
+    "local-dynamo": "./bin/launch_local_dynamo"
+  },
   "keywords": [
     "dynamo",
     "dynamodb",
