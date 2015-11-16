@@ -30,12 +30,12 @@
     "test": "./node_modules/.bin/nodeunit test"
   },
   "dependencies": {
-    "flags": "0.1.2",
-    "kew": "0.4.0",
-    "metrics": "0.1.8",
-    "progress": "1.1.8"
+    "flags": "0.1.2"
   },
   "devDependencies": {
+    "kew": "0.4.0",
+    "metrics": "0.1.8",
+    "progress": "1.1.8",
     "aws-sdk": "^2.0.22",
     "nodeunit": "0.9.1"
   }
