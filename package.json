@@ -14,7 +14,7 @@
     "email": "x@medium.com"
   },
   "bin": {
-    "local-dynamo": "./bin/launch_local_dynamo"
+    "local-dynamo": "bin/launch_local_dynamo.js"
   },
   "keywords": [
     "dynamo",
